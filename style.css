@@ -25,6 +25,17 @@ p, p1 {
   padding-right: 15px;
 }
 
+.class {
+  color: #EEE;
+  font-family: Fira sans, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .navbar {
   text-align: center;
   min-width: 300px;
