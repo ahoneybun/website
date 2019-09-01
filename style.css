@@ -94,6 +94,12 @@ p, p1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 25px;
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 450px;
+  height: 350px; 
 }
 
 .content {
