@@ -39,8 +39,7 @@ p {
   margin-right: auto;
   margin-bottom: 0;
   padding: 0;
-  min-width: 300px;
-  width: 35%;
+  width: 50%;
   overflow: hidden;
   background-color: #F5853F;
   box-shadow: 0 5px 10px black;
@@ -99,7 +98,7 @@ p {
   border-bottom-right-radius: 25px;
   background-color: #443850;
   min-width: 300px;
-  width: 35%;
+  width: 50%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
