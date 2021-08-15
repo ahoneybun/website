@@ -1,7 +1,7 @@
 html, body {
   width: 100%;
   height: 100%;
-  background-color: #130303;
+  background-color: #000;
 }
 
 h1, h2 {
@@ -68,8 +68,8 @@ p {
 }
 
 .navbar li a:hover {
-  background-color: #2D080A;
-  color: #FFCDBC;
+  background-color: #ffc300;
+  color: #000;
 }
 
 .face {
@@ -97,7 +97,7 @@ p {
   margin-bottom: 15px;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
-  background-color: #2D080A;
+  background-color: #443850;
   min-width: 300px;
   width: 35%;
   height: auto;
