@@ -28,7 +28,6 @@ p {
 
 .navbar {
   text-align: center;
-  min-width: 300px;
 }
 
 .navbar ul {
@@ -46,14 +45,14 @@ p {
   z-index: 1000;
 }
 
-.centered {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .navbar li {
   float: left;
   text-align: center;
+}
+
+.centered {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .navbar li a {
