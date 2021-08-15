@@ -88,8 +88,8 @@ p {
   background-position: left top;
   background-repeat: repeat;
   padding: 20px;
-  width: 450px;
-  height: 350px; 
+  width: 90%;
+  height: auto; 
 }
 
 .content {
