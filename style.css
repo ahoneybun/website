@@ -32,27 +32,8 @@ p {
 
 .navbar ul {
   list-style-type: none;
-  border-top-right-radius: 25px;
-  border-top-left-radius: 25px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 0;
   padding: 0;
-  width: 40%;
-  overflow: hidden;
   background-color: #F5853F;
-  box-shadow: 0 5px 10px black;
-  z-index: 1000;
-}
-
-.navbar li {
-  float: left;
-  text-align: center;
-}
-
-.centered {
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .navbar li a {
@@ -60,7 +41,6 @@ p {
   font-family: Fira sans, sans-serif;
   font-weight: 300;
   text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
   color: #232629;
 }
@@ -92,18 +72,8 @@ p {
 
 .content {
   padding-top: 20px;
-  margin-bottom: 15px;
-  border-bottom-left-radius: 25px;
-  border-bottom-right-radius: 25px;
   background-color: #443850;
-  min-width: 300px;
-  width: 40%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: 10px;
   float: center;
-  z-index: 0;
   box-shadow: 0 -5px 0 #F5853F, 0 2px 10px black; 
 }
 
