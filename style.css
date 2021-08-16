@@ -26,6 +26,10 @@ p {
   padding-right: 15px;
 }
 
+ul {
+  padding-left: 50px;
+}
+
 .navbar {
   text-align: center;
 }
