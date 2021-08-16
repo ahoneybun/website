@@ -4,14 +4,27 @@ html, body {
   background-color: #000;
 }
 
-h1, h2 {
+h1 {
   color: #FFCDBC;
   font-family: Fira sans, sans-serif;
-  text-align: center;
+  text-align: justify;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
   padding-top: 10px;
+  padding-left: 40px;
+  font-weight: 200;
+}
+
+h2 {
+  color: #FFCDBC;
+  font-family: Fira sans, sans-serif;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  padding-top: 10px;
+  padding-left: 40px;
   font-weight: 200;
 }
 
@@ -19,17 +32,17 @@ p {
   color: #FFCDBC;
   font-family: Fira sans, sans-serif;
   font-size: 18px;
-  text-align: center;
+  text-align: left;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 15px;
+  padding-left: 50px;
   padding-right: 15px;
 }
 
 ul {
   color: #FFCDBC;
   font-family: Fira sans, sans-serif;
-  padding-left: 50px;
+  padding-left: 60px;
   text-align: left;
 }
 
