@@ -27,7 +27,10 @@ p {
 }
 
 ul {
+  color: #FFCDBC;
+  font-family: Fira sans, sans-serif;
   padding-left: 50px;
+  text-align: left;
 }
 
 .navbar {
